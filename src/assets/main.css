@@ -1,0 +1,14 @@
+.dias{
+    color:white;
+    padding: 4px 17px;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    margin: 5px 0 10px;
+    display: inline-block;
+}
+
+.Oferta img {
+    width: 65px;
+    margin: 12px 5px;
+    
+}
